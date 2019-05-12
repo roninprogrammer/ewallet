@@ -1,8 +1,8 @@
 #Wallet
 A fully functional Wallet System built using Dart (Mobile) and (Backend) Python,Django and DjangoRESTful framework. [PYTHON]
 
-#Mobile
-
+# Mobile
+[alt](https://github.com/roninprogrammer/ewallet/blob/master/assets/card.gif?raw=true)
 
 ## Original design-prototype in Dribble by Caler Edwards
 https://dribbble.com/CalerEdwards
